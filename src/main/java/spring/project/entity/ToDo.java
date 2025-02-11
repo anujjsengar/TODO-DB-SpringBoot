@@ -2,12 +2,6 @@ package spring.project.entity;
 
 import javax.persistence.*;
 
-
-/**
- * @Author: apple
- * @created on 30/04/2020
- * @Project is SpringSimpleTodo
- */
 @Entity
 @Table(name = "schedule")
 class ToDo {
