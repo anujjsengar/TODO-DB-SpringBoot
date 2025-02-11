@@ -10,11 +10,7 @@ import spring.project.entity.ToDo;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @Author: apple
- * @created on 02/05/2020
- * @Project is TodoProjectDB
- */
+
 public class LogicRepository implements ToDoRepository{
 
 
