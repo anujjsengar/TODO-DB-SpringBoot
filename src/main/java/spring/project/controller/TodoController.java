@@ -11,12 +11,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import spring.project.entity.ToDo;
 import spring.project.repository.ToDoRepository;
 
-
-/**
- * @Author: apple
- * @created on 30/04/2020
- * @Project is SpringSimpleTodo
- */
 @Controller
 public class ToDoController {
 
